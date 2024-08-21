@@ -1,0 +1,1 @@
+This project focuses on predicting carbon emissions in High-Performance Computing (HPC) centers using Long Short-Term Memory (LSTM) models. The aim is to develop and compare different approaches for predicting carbon emissions, optimizing performance, and contributing to more sustainable HPC operations.
